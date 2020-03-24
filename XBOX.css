@@ -12,7 +12,7 @@ No refunds on digital goods, If you have questions concerning your order please 
     background-repeat:no-repeat;
 }
 .custom.disconnected { 
-    background: url(disconnected.png);
+    background: url(disconnected.svgz);
     background-repeat:no-repeat;
 }
 .custom.disconnected div {
@@ -29,7 +29,7 @@ No refunds on digital goods, If you have questions concerning your order please 
 .custom .trigger{
     width: 200px;
     height: 127px;
-    background: url(trigger.png);
+    background: url(trigger.svgz);
     background-repeat:no-repeat;
 }
 .custom .trigger.left{ 
@@ -54,7 +54,7 @@ No refunds on digital goods, If you have questions concerning your order please 
     height: 333px;
     left: 110px;
     top: 133px;
-    background: url(bumper.png);
+    background: url(bumper.svgz);
     opacity: 0;
     background-repeat:no-repeat;
     position: absolute;
@@ -82,7 +82,7 @@ No refunds on digital goods, If you have questions concerning your order please 
 }
 
 .custom .back, .custom .start{
-    background: url(start-select.png);
+    background: url(start-select.svgz);
     width: 30px;
     height: 19px;
     background-repeat:no-repeat;
@@ -132,7 +132,7 @@ No refunds on digital goods, If you have questions concerning your order please 
     position: absolute;
     width:52px;
     height:52px;
-    background: url(abxy.png);
+    background: url(abxy.svgz);
 }
 .custom .button.pressed{
     background-position-y: -53px;
@@ -174,7 +174,7 @@ No refunds on digital goods, If you have questions concerning your order please 
 }
 .custom .stick{
     position: absolute;
-    background: url(stick.png);
+    background: url(stick.svgz);
     height:88px;
     width: 88px;
     background-repeat:no-repeat;
@@ -202,7 +202,7 @@ No refunds on digital goods, If you have questions concerning your order please 
     left: 220px;
 }
 .custom .face{
-    background: url(dpad.png);
+    background: url(dpad.svgz);
     position: absolute;
     opacity: 0;
 }
